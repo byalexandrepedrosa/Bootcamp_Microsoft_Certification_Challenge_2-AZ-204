@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "httpValidateCpf", "httpValidateCpf\httpValidateCpf.csproj", "{FBED6509-84E9-4169-90CC-63EE3A447C9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "httpValidateCpf.tests", "httpValidateCpf.tests\httpValidateCpf.tests.csproj", "{82BBD46E-94CA-485B-80FD-7C9F1AAA9DBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBED6509-84E9-4169-90CC-63EE3A447C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBED6509-84E9-4169-90CC-63EE3A447C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBED6509-84E9-4169-90CC-63EE3A447C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBED6509-84E9-4169-90CC-63EE3A447C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BBD46E-94CA-485B-80FD-7C9F1AAA9DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BBD46E-94CA-485B-80FD-7C9F1AAA9DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BBD46E-94CA-485B-80FD-7C9F1AAA9DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BBD46E-94CA-485B-80FD-7C9F1AAA9DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BFE847D-1B52-4B8A-BFF4-364B99A7CBCD}
+	EndGlobalSection
+EndGlobal
